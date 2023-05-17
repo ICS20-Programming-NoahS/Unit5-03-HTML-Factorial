@@ -1,0 +1,22 @@
+/* Created by: Noah Smith
+* Created on: May 2023
+* This CSS file defines the style for index.html
+* ICS2O-Unit5-03-HTML-Factorial
+*/
+
+h1 {
+	background: red;
+  text-align: center;
+}
+	
+body { 
+	background: orange;
+}
+
+h3 { 
+	background: red;
+  text-align: center;
+}
+
+p { 
+	color: red;
