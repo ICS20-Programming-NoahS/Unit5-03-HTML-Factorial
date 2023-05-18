@@ -1,3 +1,9 @@
+// Copyright (c) 2023 Noah Smith All rights reserved
+//
+// Created by: Noah Smith
+// Created on: May 2023
+// This file contains the JS functions for index.html
+
 "use strict";
 
 /**
